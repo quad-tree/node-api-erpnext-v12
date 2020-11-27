@@ -1,0 +1,30 @@
+{
+  "name": "node-api-erpnext-v12",
+  "version": "0.1.0",
+  "description": "Wrapper for ERPNext api on node",
+  "main": "./src/api_erpnext_v12.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quad-tree/node-api-erpnext-v12.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "erpnext",
+    "v12",
+    "js"
+  ],
+  "author": "Enrique Motilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quad-tree/node-api-erpnext-v12/issues"
+  },
+  "homepage": "https://github.com/quad-tree/node-api-erpnext-v12#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request-promise": "^4.2.6"
+  }
+}
