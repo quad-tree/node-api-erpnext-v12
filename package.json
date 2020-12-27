@@ -1,6 +1,6 @@
 {
   "name": "node-api-erpnext",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Wrapper for ERPNext api on node",
   "main": "./src/api_erpnext.js",
   "scripts": {
