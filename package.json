@@ -26,6 +26,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "axios": "^0.21.0",
+    "btoa": "^1.2.1",
     "crypto-js": "^4.0.0"
   }
 }
