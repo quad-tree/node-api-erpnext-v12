@@ -6,18 +6,17 @@ nodejs API wrapper for Erpnext v11 and 12
 
 This library is meant to be a bridge from the native Frappe API for ERPNext on NodeJS/JS projects. 
 
-## Notes on first commit:
+please refer to [Frappe](https://github.com/frappe/frappe) for further information.
+The original idea is to be able to acces ERPNext instances from NodeJS easily.
 
 
-As of today, it uses the "[request-promise](https://github.com/request/request-promise-native)" npm package to handle promises, but is already deprecated, here is a list of [alternatives](https://github.com/request/request/issues/3143): 
+Made with :heart:
 
 
-I have used it on personal projects, but I want to make it available to others to use it and to push it as a npm package.
+License
+This repository has been released under the MIT License.
 
-This needs a testing framework, eslint, documentation, and some functions that somehow stop working (one for getting list of documents and filters).
-
-Contributors wanted.
-
-
-Thanks
-Enrique
+### recent changes:
+ - 2020-12-26  Added getDocListByFilter function
+ - 2020-12-26  changed node-promise to axios
+ - 
