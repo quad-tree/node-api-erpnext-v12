@@ -11,7 +11,7 @@ var bot_url = process.env.API_ERPNEXT_BASEURL;
 var bot_login_auth = process.env.API_ERPNEXT_TOKEN;
 
 // Initialization
-var ERPNext = require("../src/api_erpnext_v12");
+var ERPNext = require("../src/api_erpnext");
 var login_ops = {
     baseUrl: bot_url,
     token: btoa(bot_login_auth)

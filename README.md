@@ -10,13 +10,12 @@ please refer to [Frappe](https://github.com/frappe/frappe) for further informati
 The original idea is to be able to acces ERPNext instances from NodeJS easily.
 
 
-Made with :heart:
+Made with :heart: @ Quad Tree
 
 
-License
+## License
 This repository has been released under the MIT License.
 
 ### recent changes:
  - 2020-12-26  Added getDocListByFilter function
  - 2020-12-26  changed node-promise to axios
- - 
